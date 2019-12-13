@@ -5,3 +5,4 @@ print(c)
 print type(a)
 print("welcome to world")
 print("hello eswor")
+p
